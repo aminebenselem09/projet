@@ -1,0 +1,12 @@
+body { 
+    background-image: url("../../assets/images/bg1.jpg") ; 
+    background-size: cover;
+    height: 100vh;
+    background-attachment: fixed;
+  }
+  form{
+      float:right ;
+      margin-top: 5px;
+  }
+  .btn, .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #bccbde ; }

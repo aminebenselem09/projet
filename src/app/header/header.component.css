@@ -1,0 +1,24 @@
+#header{background-color: #431c5d;}
+nav ul li{float:right;
+margin-right:20px;
+list-style: none;
+
+}
+nav ul li a {text-decoration-line: none;
+color:#bccbde;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: bold;}
+#s{width:30%;
+height: 90px;}
+nav{
+    margin-top: 35px;
+}
+#form{
+    margin-top:30px;
+    margin-left:20px;
+    float: right;
+
+}
+
+#btn,#btn1{color: aliceblue;
+margin-left: 20px;}
