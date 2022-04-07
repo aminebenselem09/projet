@@ -1,0 +1,21 @@
+legend{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: bold;
+    text-align: center;
+}
+fieldset {padding:0;
+border:solid;
+height:300px;
+width: 50%;
+overflow: hidden;
+display: inline-block;
+margin-left: 25%;
+border-radius: 15px;
+margin-top:10%;}
+body{
+background-size: cover;
+height: 100vh;
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(53,53,80,0.8323704481792717) 35%, rgba(0,212,255,1) 100%);
+}

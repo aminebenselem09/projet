@@ -7,6 +7,7 @@ import { HeaderComponent } from './header/header.component';
 import { SectionComponent } from './section/section.component';
 import { FooterComponent } from './footer/footer.component';
 import { ContactComponent } from './contact/contact.component';
+import { AproposComponent } from './apropos/apropos.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { ContactComponent } from './contact/contact.component';
     HeaderComponent,
     SectionComponent,
     FooterComponent,
-    ContactComponent
+    ContactComponent,
+    AproposComponent
   ],
   imports: [
     BrowserModule,

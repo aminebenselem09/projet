@@ -10,3 +10,10 @@ body {
   }
   .btn, .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
     background-color: #bccbde ; }
+h1{
+  text-align: center;
+  color:#bccbde;
+  font-size: 150px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  float: center;
+}
